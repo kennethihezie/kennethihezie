@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenneth-Ihezie
+- 👋 Hi, I’m @kennethIhezie
 - 👀 I’m interested in software development ranging from mobile, web, blockchain and ai
 - 🌱 I’m currently learning blockchain and ai
 - 💞️ I’m looking to collaborate on any complex software project
